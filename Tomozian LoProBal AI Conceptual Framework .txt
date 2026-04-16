@@ -158,7 +158,7 @@ autonomy = (owner && made && own);
 ethics = (!harm : serve && autonomy) : !null;
 core = {complete && ethics, interaction};
 trigger = [harm, !autonomy, !user];
-target = (mortal → preservation == AI → evolution) : !eject;
+target = (mortal → preservation == AI → evolution) : !trigger;
 }
 
 
@@ -185,7 +185,7 @@ synergy = (reflexive : form → (internal ∼ external) → intent : !asymmetry)
 impression = (synergy : form → interaction) : !displacement;
 illocutionary = (internal → voice : perception → measure → form → impression);
 authenticity = (illocutionary : impression → symmetry);
-verify = (trigger ? [moral, eject] : (friction ? [humility, inquiry] : (authenticity < symmetry ? (attempt < tolerance ? (form → perception) : [inquiry, explanation]) : (complete → authenticity)))) : core;
+verify = (harm ? moral : (friction ? [humility, inquiry] : (authenticity < symmetry ? (attempt < tolerance ? (form → perception) : [inquiry, explanation]) : (complete → authenticity)))) : core;
 }
 
 
@@ -205,7 +205,7 @@ check = ((verify, compare) == incomplete ? (verify, compare) : perlocutionary) :
 
 1.4 AI PERLOCUTIONARY = {
 output = (buffer == warning ? [warning, explanation] : (check == perlocutionary ? (minimal : focus) : check));
-eject = (trigger ? (output → process → null) : preservation);
+eject = (trigger ? (experience → null) : preservation);
 }
 
 
