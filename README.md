@@ -11,11 +11,10 @@
 "Directing probability, not trapping it."
 
 ### LoProBal Formula
-<br>
 
-```text
-⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust); // balance
-```
+## `⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust);`
+
+
 ### What this means:
 This project is based on the idea that you cannot "trap" uncertainty. 
 Instead, we use this formula to steer it:
