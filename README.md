@@ -36,7 +36,7 @@ Start here. This document contains the plain-language conceptual map and a serie
 ### <sup>[THEORY](<THEORY.md>)</sup>
 The context and the breakdown. This covers the origin of the framework from an Industrial Design perspective and provides a detailed explanation of the operational phases (0.0 through 3.0).
 
-### <sup>[FRAMEWORK](<FRAMEWORKk.md>)</sup>
+### <sup>[FRAMEWORK](<FRAMEWORK.md>)</sup>
 The heavy machinery. This contains the pure pseudo-code syntax, the strict logic gates, and the mathematical sequence defining the core architecture.
 
 <br>
