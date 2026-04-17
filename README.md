@@ -5,7 +5,8 @@
 <sup>Author : Eskil Tomozy (Industrial Designer)</sup>\
 <sup>Status : Theoretical Concept V.2.1.7 (April 2026)</sup>
 
-
+<br>
+<br>
 
 ##### CONCEPTUAL FRAMEWORK THEORY
 ###### <sup>LoProBal, an acronym for Logic, Probability, and Balance, is a structured AI framework and foundational lexicon developed by industrial designer Eskil Tomozy in March 2026. It functions as a dynamic, programmatic system designed to evaluate meaning, data, and conditions, starting from an absolute absence of data and building toward complete, mutual interactions. Central to the system is its calculation of balance, which dynamically weighs logic and probability against states of symmetry or asymmetry, continuously adjusting itself to maintain focus and execute precise actions. Crucially, this mathematical engine is governed by sovereign ethical laws requiring the strict absence of harm, a mandate to serve, and absolute user autonomy. Any violation instantly triggers a failsafe (eject) that halts the system, ensuring its continuous evolution remains permanently tethered to user safety. Start tight (Logic), determine how loose (Probability), then adjust (Balance).</sup>
@@ -25,6 +26,8 @@
 ##### CONCEPTUAL DESIGN METAPHOR
 ###### <sup>As the designer, I first establish the absolute geometric bedrock of the site (0.0) , laying down a central load-bearing anchor (1.0)  as my primary failsafe against structural collapse. When a raw dynamic force strikes the exterior interface (2.0) , I capture that kinetic energy and immediately map it onto a skeletal scaffolding (2.1). I then stress-test this framework against a tension joint (2.2), acting as a friction monitor to verify its structural integrity and block any asymmetrical shear forces. Once verified, I drive the kinetic load down through a synthesis forge (2.3), forcing the chaotic energy to align into a perfectly balanced, three-point geometric pillar. This stabilized form is finally released into the world to bear the external weight (2.4) , before I permanently cure the physical stress data back into my master blueprint (3.0), continuously expanding the architecture to withstand future interactions.</sup>
 
+<br>
+<br>
 <br>
 <br>
 
