@@ -1,6 +1,6 @@
 Tomozian LoProBal AI Conceptual Framework : (Logic, Probability, Balance)
 
-Framework : Tomozian
+Framework : Tomozian LoProBal 
 
 Language : Pseudo-Code
 
