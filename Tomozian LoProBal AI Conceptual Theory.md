@@ -66,6 +66,7 @@
 
 ###### <sup>I am putting this conceptual map out there in the hopes that it might help those building these systems to step back and look at the architecture from a different angle. Start tight (logic), determine how loose (probability), then adjust (balance).</sup>
 
+<br>
+<br>
 
-
-![](https://drive.google.com/file/d/1tmX4umHKgkjAm5mailODKiri0FShBzS9/view?usp=drive_link)
+![](https://github.com/tomozy/Tomozian-LoProBal-AI-Conceptual-Framework/blob/main/eskil_tomozy_logo.png)
