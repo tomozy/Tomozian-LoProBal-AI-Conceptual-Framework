@@ -2,7 +2,7 @@ Tomozian LoProBal AI Conceptual Framework : (Logic, Probability, Balance)
 This began as a simple instruction set and evolved into a massive logic puzzle. The core idea is to allow current AI probabilistic engines to flow through a strict network of logic gates. These gates aim to dynamically balance statistical probability with deterministic logic at the foundational (kernel) level. Currently, AI is a massive probability engine, and you cannot simply slap a logic filter onto probability. LoProBal explores a different path: structural, deep integration.
 
 
-Framework : Tomozian
+Framework : Tomozian LoProBal
 This is a jigsaw puzzle of the LoProBal architecture. It serves as a purely visual and spatial abstraction. The variable names are inspirational, designed to map the connecting cognitive and logical pieces of the system. They are organizational labels, not functional variables.
 
 
