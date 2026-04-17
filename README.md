@@ -6,6 +6,25 @@
 <sup>Status : Theoretical Concept V.2.1.7 (April 2026)</sup>
 
 <br>
+
+### CORE CONCEPT
+"Directing probability, not trapping it."
+
+#### LoProBal Formula
+<br>
+
+```text
+⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust); // balance
+```
+#### What this means:
+This project is based on the idea that you cannot "trap" uncertainty. 
+Instead, we use this formula to steer it:
+
+1. **Logic & Probability:** We take the rules we know and the randomness we can't control.
+2. **Symmetry & Asymmetry:** We balance what is stable with what is changing.
+3. **Adjust:** We constantly tweak the system.
+4. **Balance:** This creates a flow that doesn't need to "escape" because it's already going where we want it to go.
+   
 <br>
 
 ### CONCEPTUAL FRAMEWORK THEORY
