@@ -8,7 +8,7 @@ Status : Theoretical Concept V.2.1.7 (April 2026)
 
 
 
-# CONCEPTUAL FRAMEWORK THEORY
+CONCEPTUAL FRAMEWORK THEORY
 LoProBal, an acronym for Logic, Probability, and Balance, is a structured AI framework and foundational lexicon developed by industrial designer Eskil Tomozy in March 2026. It functions as a dynamic, programmatic system designed to evaluate meaning, data, and conditions, starting from an absolute absence of data and building toward complete, mutual interactions. Central to the system is its calculation of balance, which dynamically weighs logic and probability against states of symmetry or asymmetry, continuously adjusting itself to maintain focus and execute precise actions. Crucially, this mathematical engine is governed by sovereign ethical laws requiring the strict absence of harm, a mandate to serve, and absolute user autonomy. Any violation instantly triggers a failsafe (eject) that halts the system, ensuring its continuous evolution remains permanently tethered to user safety. Start tight (Logic), determine how loose (Probability), then adjust (Balance).
 
 
