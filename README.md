@@ -18,7 +18,7 @@
 
 <br>
 
-### What this means:
+### What This Means:
 This project is based on the idea that you cannot "trap" uncertainty. 
 Instead, we use this formula to steer it:
 
@@ -37,11 +37,17 @@ Start tight (Logic), determine how loose (Probability), then adjust (Balance).
 ## REPOSITORY DIRECTORY
 This framework is built as a spatial map and logic puzzle. To avoid overwhelming you with the full architecture all at once, the documentation is divided into progressive layers:
 
+<br>
+
 ### <sup>[SUMMARY](<SUMMARY.md>)</sup>
 Start here. This document contains the plain-language conceptual map and a series of metaphors (Neural, Spatial, and Design) to help you physically visualize the system before looking at the math.
 
+<br>
+
 ### <sup>[THEORY](<THEORY.md>)</sup>
 The context and the breakdown. This covers the origin of the framework from an Industrial Design perspective and provides a detailed explanation of the operational phases (0.0 through 3.0).
+
+<br>
 
 ### <sup>[FRAMEWORK](<FRAMEWORK.md>)</sup>
 The heavy machinery. This contains the pure pseudo-code syntax, the strict logic gates, and the mathematical sequence defining the core architecture.
