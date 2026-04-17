@@ -222,3 +222,8 @@
 ###### mapping = ((calculation ⇒ index ⇒ measure ⇒ bearing) : (complete ⇒ sequence)) : (!noise && symmetry);
 ###### evolution = (perfection : (moving ⇒ target) : (threshold == complete ? [bridge, mapping] : moving)) : (!drift || shift);
 }
+
+<br>
+<br>
+
+![](https://github.com/tomozy/Tomozian-LoProBal-AI-Conceptual-Framework/blob/main/eskil_tomozy_logo.png)
