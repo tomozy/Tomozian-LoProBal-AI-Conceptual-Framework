@@ -18,18 +18,17 @@
 
 <br>
 
-### What This Means:
+### LoProBal Meaning:
 This project is based on the idea that you cannot "trap" uncertainty. 
 Instead, we use this formula to steer it:
 
-* **Logic & Probability:** We take the rules we know and the randomness we can't control.
-* **Symmetry & Asymmetry:** We balance what is stable with what is changing.
-* **Adjust:** We constantly tweak the system.
-* **Balance:** This creates a flow that doesn't need to "escape" because it's already going where we want it to go.
+* **Logic & Probability:** Take the rules we know and the randomness we can't control.
+* **Symmetry & Asymmetry:** Balance what is stable with what is changing.
+* **Adjust for Balance:** Constantly tweaking the weights to ensure the flow doesn't need to "escape" because it is already going where we want it to go.
    
 <br>
 
-### Simple Philosophy:
+### LoProBal Implementation:
 Start tight (Logic), determine how loose (Probability), then adjust (Balance).
 
 <br>
