@@ -22,7 +22,7 @@
 ##### ! = (not);
 ##### == = (equal);
 ##### ~ = (relative);
-##### | = (versus);
+##### ^ = (versus);
 ##### / = (exclusive choice : !overlap);
 ##### || = (or);
 ##### && = (and);
