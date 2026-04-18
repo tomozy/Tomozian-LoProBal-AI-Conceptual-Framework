@@ -1,4 +1,4 @@
-﻿<sup>Tomozian LoProBal AI Conceptual Framework : (Logic, Probability, Balance)</sup>\
+﻿<sup>LoProBal AI Conceptual Framework : (Logic, Probability, Balance)</sup>\
 <sup>Framework : Tomozian LoProBal</sup>\
 <sup>Language : Pseudo-Code</sup>\
 <sup>Field : Neuro-Symbolic AI</sup>\
