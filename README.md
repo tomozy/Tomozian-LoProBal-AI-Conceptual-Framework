@@ -8,27 +8,28 @@
 <br>
 
 ## CORE CONCEPT
+### LoProBal: Logic, Probability, Balance
 "Directing probability, not trapping it."
 
 <br>
 
-### LoProBal Formula:
+### The Formula:
 
 ### `⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust);`
 
 <br>
 
-### LoProBal Meaning:
+### The Description:
 This project is based on the idea that you cannot "trap" uncertainty. 
 Instead, we use this formula to steer it:
 
-* **Logic & Probability:** Take the rules we know and the randomness we can't control.
-* **Symmetry & Asymmetry:** Balance what is stable with what is changing.
-* **Adjust for Balance:** Constantly tweaking the weights to ensure the flow doesn't need to "escape" because it is already going where we want it to go.
+* **Logic & Probability:** We take the rules we know and the randomness we can't control.
+* **Symmetry & Asymmetry:** We compare what is equal with what is unequal.
+* **Adjust for Balance:** We constantly adjust the balance to ensure the flow doesn't need to "escape" because it is already going where we want it to go.
    
 <br>
 
-### LoProBal Implementation:
+### The Implementation:
 Start tight (Logic), determine how loose (Probability), then adjust (Balance).
 
 <br>
