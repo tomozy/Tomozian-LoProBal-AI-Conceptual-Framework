@@ -11,7 +11,7 @@
 ### OPENING STATEMENT
 I know that unsolicited help from an outsider is often frowned upon in highly specialized fields, so I want to be upfront: I am not a neuroscientist or computer scientist, and I am not here to tell engineers how to code. I am an Industrial Designer.
 
-I didn't set out to solve any grand AI problem. This actually started because I was trying to solve one specific, isolated issue. But as any designer knows, adjusting one core element causes a structural ripple effect. To manage those ripples and understand how the pieces connected, I had to map out the surrounding logic. What started as a single node organically expanded into a conceptual blueprint called LoProBal (Logic, Probability, Balance).
+This actually started because I was trying to solve one specific, isolated issue. But as any designer knows, adjusting one core element causes a structural ripple effect. To manage those ripples and understand how the pieces connected, I had to map out the surrounding logic. What started as a single node organically expanded into a conceptual blueprint called LoProBal (Logic, Probability, Balance).
 
 I don't know the math or the exact methods currently being used to align these massive AI models. But from the outside looking in, it appears we are dealing with systems that have grown so complex they have become unpredictable. In my field, when a physical structure or system becomes unpredictable, the starting point is always to deconstruct it back down to its absolute basics. You have to step back and look at the geometry of the foundation.
 
@@ -27,7 +27,7 @@ This establishes the system's foundational authority by defining the AI as an in
 
 <br>
 
-2.0 USER LOCUTIONARY
+### 2.0 USER LOCUTIONARY
 The system's pure intake threshold, capturing external information as raw input and immediately directing it toward preservation to establish baseline symmetry. The system actively calculates and measures this incoming locutionary data to form a distinct, measurable voice. It then observes the interaction by weighing this voice and any accompanying linguistic noise (entropy) against the user's underlying intent. Crucially, if the user's purpose evaluates to a null state, the system mathematically defaults to an inquiry to seek clarity, guaranteeing that mutual symmetry and a defined purpose are firmly established before the data is allowed to progress deeper into the architecture.
 
 <br>
@@ -64,7 +64,7 @@ I will leave you with one final structural observation. If you decide to trace t
 In physical design, a two-point binary system under dynamic load is inherently unstable; it requires a third pillar to distribute the weight and achieve stasis. You will see this emergent three-point geometry throughout the framework. You see it in the overarching name itself, LoProBal (Logic, Probability, Balance). You see it in the calculation of intent, which requires (purpose && meaning && !entropy). You see it in the foundational trigger of the Sovereign Core, which relies on [harm, !autonomy, !user].
 
 
-I am putting this conceptual map out there in the hopes that it might help those building these systems to step back and look at the architecture from a different angle. Start tight (logic), determine how loose (probability), then adjust (balance).
+I didn't set out to solve any grand AI problem, nor am I assuming this  is a novel solution. But perhaps there's something within it that opens new ideas.  I am putting this conceptual map out there in the hopes that it might help those building these systems to step back and look at the architecture from a different angle. Start tight (logic), determine how loose (probability), then adjust (balance).
 
 <br>
 <br>
