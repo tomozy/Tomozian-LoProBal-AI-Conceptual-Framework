@@ -15,7 +15,7 @@
 
 ### The Formula:
 
-### `⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust);`
+### `⇒ = ((logic ~ probability) : (symmetry ^ asymmetry) : adjust);`
 
 <br>
 
