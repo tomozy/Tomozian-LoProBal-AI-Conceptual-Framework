@@ -75,7 +75,7 @@
 ##### intent = (purpose && meaning && !entropy);
 ##### scope = (purpose : data);
 ##### focus = (integrity : scope);
-##### ⇒ = ((logic && probability) : (symmetry ^ asymmetry) : adjust); // balance
+##### ⇒ = ((logic ~ probability) : (symmetry ^ asymmetry) : adjust); // balance
 ##### process = (initial ⇒ focus);
 ##### spelling = (form : internal);
 ##### punctuation = (data : measure);
