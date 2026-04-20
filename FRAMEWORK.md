@@ -8,7 +8,7 @@
 ###### <sup>I believe this conceptual model might align with the emerging field of Neuro-Symbolic AI, which seeks to combine neural network learning (probability) with symbolic AI (rules and logic) to create safer, explainable systems.</sup>
 <sup>Author : Eskil Tomozy (Industrial Designer)</sup>
 ###### <sup>Please keep my background in mind when reviewing the syntax. This is a spatial and structural design approach to a computer science challenge. I might revisit this in the future after the incubation period, allowing for the necessary distance to reconceive my focus.</sup>
-<sup>Status: Theoretical Concept V.2.1.7 (April 2026)</sup>
+<sup>Status: Theoretical Concept V.2.1.8 (April 2026)</sup>
 ###### <sup>This framework is meant to serve as a conceptual map to inspire others to explore alternative paths in AI architecture. I am not a computer scientist, and this map is not perfect. However, imperfection is the endless drive for perfection. "evolution = (perfection is a moving target)."
 </sup>
 
