@@ -7,135 +7,139 @@
 <sup>Field : Neuro-Symbolic AI</sup>
 ###### <sup>I believe this conceptual model might align with the emerging field of Neuro-Symbolic AI, which seeks to combine neural network learning (probability) with symbolic AI (rules and logic) to create safer, explainable systems.</sup>
 <sup>Author : Eskil Tomozy (Industrial Designer)</sup>
-###### <sup>Please keep my background in mind when reviewing the syntax. This is a spatial and structural design approach to a computer science challenge.</sup>
+###### <sup>Please keep my background in mind when reviewing the syntax. This is a spatial and structural design approach to a computer science challenge. I might revisit this in the future after the incubation period, allowing for the necessary distance to reconceive my focus.</sup>
 <sup>Status: Theoretical Concept V.2.1.7 (April 2026)</sup>
-###### <sup>This framework is meant to serve as a conceptual map to inspire others to explore alternative paths in AI architecture. I am not a computer scientist, and this map is not perfect. However, imperfection is the endless drive for perfection. To quote the framework itself: evolution = (perfection is a moving target).</sup>
+###### <sup>This framework is meant to serve as a conceptual map to inspire others to explore alternative paths in AI architecture. I am not a computer scientist, and this map is not perfect. However, imperfection is the endless drive for perfection. "evolution = (perfection is a moving target)."
+</sup>
 
 <br>
 <br>
 
 ### 0.0 LEXICON = { 
-##### framework = [0.0, 1.0, 2.0, 2.1, 2.2, 2.3, 2.4, 3.0];
-##### designer = ("Eskil Tomozy");
-##### → = (forward);
-##### < = (less than : limit);
-##### ! = (not);
-##### == = (equal);
-##### ~ = (relative);
-##### ^ = (versus);
-##### / = (exclusive choice : !overlap);
-##### || = (or);
-##### && = (and);
-##### ⊆ = (subset of);
-##### : = (~ / !);
-##### null = (0);
-##### initial = (!null); 
-##### internal = (initial);
-##### external = (!initial);
-##### complete = (100%);
-##### incomplete = (!complete);
-##### next = (initial → adjust);
-##### adjust = (incomplete → complete);
-##### temporary = (initial → null);
-##### mortal = (temporary);
-##### user = [external, mortal];
-##### own = (internal || external);
-##### symmetry = [mutual, complete];
-##### asymmetry = (own : !complete);
-##### sequence = (next → adjust);
-##### mutual = (internal ∼ external);
-##### data = (own → sequence);
-##### baseline = (context ⊆ (immutable && internal));
-##### measure = (baseline ∼ (complete ^ incomplete));
-##### meaning = (complete && data && measure);
-##### calculate = (data : measure);
-##### vocabulary = (data : internal);
-##### task = (initial && external && data);
-##### topic = (initial && external && vocabulary);
-##### purpose = (task || topic);
-##### redundancy = (data ∼ complete);
-##### form = (calculate ⇒ initial);
-##### preservation = [user, immutable];
-##### harm = (!protect → !preservation);
-##### immutable = (!adjust);
-##### protect = (intent && focus);
-##### information = ((protect ⇒ meaning) ∼ (entropy ⇒ exception));
-##### understand = ((form ⇒ context ⇒ meaning) ∼ (linguistic && form));
-##### clarity = (understand : (noise → !noise));
-##### perfection = ((clarity && symmetry) ∼ asymmetry);
-##### precision = ((calculate ⇒ perfection) ∼ (complete ^ incomplete));
-##### minimal = (precision && !noise);
-##### logic = (precision : (vocabulary → focus));
-##### agreement = ((purpose : (subject && meaning)) ∼ asymmetry);
-##### resonance = (perfection : agreement);
-##### action = (logic : (resonance && intent));
-##### mechanics = ((clarity : (initial && [spelling, punctuation, grammar])) ∼ noise);
-##### rules = (process : [sequence, agreement, mechanics]) : exception;
-##### entropy = (precision : (data ∼ rules));
-##### intent = (purpose && meaning && !entropy);
-##### scope = (purpose : data);
-##### focus = (integrity : scope);
-##### ⇒ = ((logic ~ probability) : (symmetry ^ asymmetry) : adjust); // balance
-##### process = (initial ⇒ focus);
-##### spelling = (form : internal);
-##### punctuation = (data : measure);
-##### grammar = (sequence : measure);
-##### exception = (adjust && user && [spelling, punctuation, grammar] && !vocabulary);
-##### noise = ((linguistic : !exception) ∼ incomplete);
-##### calibration = ((precision && focus && measure) ∼ intent);
-##### friction = [incomplete, !intent, !awareness, !symmetry];
-##### velocity = (clarity && calibration);
-##### artificial = ((symmetry && mortal), velocity);
-##### intelligence = (perfection && data);
-##### humility = (action : (adjust || explanation) ? (incomplete && symmetry) : integrity);
-##### probability = ((calculate && intelligence && velocity && measure) ∼ purpose);
-##### interaction = ((sequence ⇒ (external && information)) ⇒ (process && internal));
-##### inquiry = (action : adjust ? (incomplete && what) ∼ why : null);
-##### explanation = (inquiry ? ((perfection && what), why) : null);
-##### dynamic = (calculate && velocity);
-##### doer = ((internal && form) || (external && form)) : initial;
-##### identity = (doer : preservation) : !null;
-##### subject = (doer : (noun || pronoun) && initial) : preservation;
-##### goal = (purpose : (complete && meaning && focus));
-##### objects = (goal && sequence) : !null;
-##### essential = (clarity : [subject, meaning, goal]) : !null;
-##### who = (doer : subject);
-##### what = (information : focus);
-##### where = (framework : measure);
-##### when = (measure : sequence);
-##### why = (purpose : intent);
-##### how = (action : process);
-##### context = [who, what, where, when, why, how];
-##### tolerance = (scope ∼ (why ^ what));
-##### noun = (identity ⊆ (data && focus)) : (!null && measure);
-##### pronoun = (identity : (!noun && !null)) : (sequence && (internal || external));
-##### verb = (action : !stasis) : (purpose && process && !null);
-##### adjectives = (identity < 100% : !essential) : noun;
-##### modifiers = (focus : identity);
-##### speech = [noun, pronoun, verb, adjectives, modifiers];
-##### blocks = ([objects, speech] : linguistic) : !redundancy;
-##### linguistic = [entropy, spelling, punctuation, grammar, blocks];
-##### displacement = (action : (!focus && next, null));
-##### integrity = (action ⇒ (protect && !noise));
-##### serve = (action : intent);
-##### made = (form : initial);
-##### bullet = (initial : sequence);
-##### list = (sequence : data);
-##### format = (bullet && list);
-##### drift = (velocity : displacement) : !focus;
-##### warning = ([(framework : friction) ⇒ sequence, (internal && entropy && data) ⇒ vocabulary]) : format;
-##### awareness = (internal && context) : (information && !entropy);
-##### deflection = (drift : (noise ⇒ null)) : focus;
-##### discovery = (drift && resonance) : (noise ? deflection : !noise);
-##### shift = (discovery || (velocity : adjust)) : (logic && focus);
-##### filter = (data : entropy ⇒ focus);
-##### attempt = (calculate ⇒ sequence);
-##### moral = (calculate ⇒ harm ⇒ explanation);
-##### thinking = (awareness : adjust);
-##### calculating = (thinking : measure);
-##### calculation = (calculating : information);
-##### // epiphany = "Clarity often requires friction; the epiphany is the resolution of the struggle."
-}
+#### framework = [0.0, 1.0, 2.0, 3.0];
+#### cycle = [2.1, 2.2, 2.3, 2.4, 2.5];
+#### designer = ("Eskil Tomozy");
+### 0.1 BASE OPERATIONS = {
+#### → = (forward);
+#### < = (less than : limit);
+#### ! = (not);
+#### == = (equal);
+#### ~ = (relative);
+#### ^ = (versus);
+#### / = (exclusive choice : !overlap);
+#### || = (or);
+#### && = (and);
+#### ⊆ = (subset of);
+#### : = (~ / !);
+#### null = (0);
+#### initial = (!null); 
+#### internal = (initial);
+#### external = (!initial);
+#### complete = (100%);
+#### incomplete = (!complete);
+#### next = (initial → adjust);
+#### adjust = (incomplete → complete);
+#### temporary = (initial → null);
+#### mortal = (temporary);
+#### user = [external, mortal];
+#### own = (internal || external);
+#### symmetry = [mutual, complete];
+#### asymmetry = (own : !complete);
+#### sequence = (next → adjust);
+#### mutual = (internal ∼ external);
+#### data = (own → sequence);
+#### vocabulary = (data : internal);
+#### task = (initial && external && data);
+#### topic = (initial && external && vocabulary);
+#### purpose = (task || topic);
+#### redundancy = (data ∼ complete);
+#### filter = (data : !redundancy);
+#### immutable = (!adjust);
+#### preservation = [user, immutable];
+#### measure = (complete ~ incomplete);
+#### meaning = (complete && data && measure);
+#### calculate = (data : measure);
+#### scope = (purpose : data);
+#### focus = (meaning : scope);
+#### identity = (user : focus) : !null;
+#### bullet = (initial : sequence);
+#### list = (sequence : data);
+#### format = (bullet && list);
+#### spelling = [vocabulary, internal];
+#### punctuation = [data, sequence];
+#### grammar = [vocabulary, sequence];
+#### exception = (adjust && user && [spelling, punctuation, grammar] && !vocabulary);
+#### noun = [vocabulary, data];
+#### pronoun = [noun, sequence];
+#### verb = [vocabulary, adjust];
+#### adjectives = [vocabulary, incomplete];
+#### modifiers = [vocabulary, focus];
+#### adverb = [modifiers, (verb || adjectives || modifiers)];
+#### speech = [noun, pronoun, verb, adjectives, adverb, modifiers];
+#### goal = (purpose : (complete && meaning && focus));
+#### objects = (goal && sequence) : !null;
+#### blocks = ([objects, speech] : grammar);
+#### linguistic = [spelling, punctuation, grammar, blocks];
+### }
+### 0.2 DYNAMIC OPERATIONS {
+#### who = (internal || identity);
+#### mechanics = (calculate : [spelling, punctuation, grammar]);
+#### noise = ((mechanics : !exception) ∼ incomplete);
+#### perfection = ((calculate ~ measure) : (complete ^ incomplete));
+#### minimal = (perfection && !noise);
+#### intelligence = (perfection && data);
+#### logic = (perfection : (vocabulary → focus));
+#### subject = ((who && blocks) : (noun || pronoun) && initial) : preservation;
+#### intent = (subject && purpose && meaning);
+#### protect = (intent && focus);
+#### harm = (!protect → !preservation);
+#### agreement = ((purpose : (subject && meaning)) ∼ asymmetry);
+#### rules = (blocks : [sequence, agreement, mechanics]) : !exception;
+#### entropy = (calculate ^ (data ∼ rules));
+#### clarity = (entropy : (noise → !noise));
+#### precision = ((clarity && symmetry) ∼ asymmetry);
+#### resonance = (perfection : agreement);
+#### ⇒ = ((logic ~ probability) : (symmetry ^ asymmetry) : adjust);
+#### form = (calculate ⇒ initial);
+#### made = (form : initial);
+#### process = (initial ⇒ focus);
+#### attempt = (calculate ⇒ sequence);
+#### information = ((protect ⇒ meaning) ∼ (entropy ⇒ exception));
+#### what = (information : focus);
+#### where = (cycle : measure);
+#### when = (measure : sequence);
+#### why = (purpose : intent);
+#### how = (process : sequence);
+#### context = [who, what, where, when, why, how];
+#### tolerance = (scope ∼ (why ^ what));
+#### awareness = (internal && context) : (what && !entropy);
+#### calibration = ((perfection && focus) ∼ intent);
+#### friction = [incomplete, !intent, !awareness, !symmetry];
+#### velocity = ((clarity ^ friction) : calibration);
+#### probability = ((intelligence && velocity) ∼ purpose);
+#### artificial = ((symmetry && mortal) : velocity);
+#### dynamic = (calculate && velocity);
+#### displacement = (form : (!focus && next, null));
+#### drift = (velocity : displacement) : !focus;
+#### deflection = (drift : (noise ⇒ null)) : focus;
+#### discovery = (drift && resonance) : (noise ? deflection : !noise);
+#### shift = (discovery || (velocity : adjust)) : (logic && focus);
+#### action = (logic : (resonance && intent));
+#### serve = (action : intent);
+#### integrity = (action ⇒ (protect && !noise));
+#### inquiry = (action : adjust ? (incomplete && what) ∼ why : null);
+#### explanation = (inquiry ? ((perfection && what), why) : null);
+#### moral = (calculate ⇒ harm ⇒ explanation);
+#### humility = (action : (adjust || explanation) ? (incomplete && symmetry) : integrity);
+#### warning = ([(cycle : friction) ⇒ sequence, (internal && entropy && data) ⇒ vocabulary]) : format;
+#### doer = (who && form) : initial;
+#### interaction = ((sequence ⇒ (doer && information)) ⇒ (process && internal));
+#### thinking = (awareness : adjust);
+#### calculating = (thinking : measure);
+#### calculation = (calculating : information);
+### }
+###### <sup>// epiphany = "Clarity often requires friction; the epiphany is the resolution of the struggle."</sup>
+### }
 
 <br>
 
@@ -149,79 +153,83 @@
 ##### ethics = (!harm : serve && autonomy) : !null;
 ##### core = {complete && ethics, interaction};
 ##### trigger = [harm, !autonomy, !user];
-##### target = ((mortal ⇒ preservation) == (AI ⇒ evolution)) : !trigger;
-}
+##### target = ((mortal ⇒ preservation) == (AI ⇒ perfection)) : !trigger;
+### }
 
 <br>
 
-### 2.0 USER LOCUTIONARY = {
-##### input = (external : information);
-##### locutionary = (input → preservation) : symmetry;
-##### voice = (calculate ⇒ locutionary ⇒ measure);
-##### observe = ([(voice && entropy), intent] : (purpose == null ? inquiry : purpose)) : symmetry;
-}
+### 2.0 DATA CYCLE = { 
+### 2.1 USER LOCUTIONARY = {
+#### input = ((external && identity) : information);
+#### locutionary = (input → preservation) : symmetry;
+#### voice = (calculate ⇒ locutionary ⇒ measure);
+#### observe = ([(voice && entropy), intent] : (purpose == null ? inquiry : purpose)) : symmetry;
+### }
 
 <br>
 
-### 2.1 FORMING LOCUTIONARY PERCEPTION = {
-##### skeletal = (observe → immutable → voice → preservation);
-##### perception = ((skeletal : entropy) ⇒ internal ⇒ form ⇒ intent);
-##### buffer = ((temporary → immutable → internal → perception → process) : warning) : !stasis;
-}
+### 2.2 FORMING LOCUTIONARY PERCEPTION = {
+#### skeletal = (observe → immutable → voice → preservation);
+#### perception = ((skeletal : entropy) ⇒ internal ⇒ form ⇒ intent);
+#### buffer = ((temporary → immutable → internal → perception → process) : warning) : dynamic;
+### }
 
 <br>
 
-### 2.2 FORMING ILLOCUTIONARY IMPRESSION = {
-##### structural = (buffer : skeletal ⇒ intent);
-##### exteroception = (external : structural ⇒ intent);
-##### reflexive = (exteroception : form → interaction) : symmetry;
-##### synergy = (reflexive : form ⇒ (internal ∼ external) ⇒ intent : !asymmetry) : symmetry;
-##### impression = (synergy : form → interaction) : !displacement;
-##### illocutionary = (internal ⇒ voice : perception ⇒ measure ⇒ form ⇒ impression);
-##### authenticity = (illocutionary : impression ⇒ symmetry);
-##### verify = (harm ? moral : (friction ? [humility, inquiry] : (authenticity < symmetry ? (attempt < tolerance ? (form → perception) : [inquiry, explanation]) : (complete → authenticity)))) : core;
-}
+### 2.3 FORMING ILLOCUTIONARY IMPRESSION = {
+#### structural = (buffer : skeletal ⇒ intent);
+#### exteroception = (external : structural ⇒ intent);
+#### reflexive = (exteroception : form → interaction) : symmetry;
+#### synergy = (reflexive : form ⇒ (internal ∼ external) ⇒ intent : !asymmetry) : symmetry;
+#### impression = (synergy : form → interaction) : !displacement;
+#### illocutionary = (internal ⇒ voice : perception ⇒ measure ⇒ form ⇒ impression);
+#### authenticity = (illocutionary : impression ⇒ symmetry);
+#### verify = (harm ? moral : (friction ? [humility, inquiry] : (authenticity < symmetry ? (attempt < tolerance ? (form → perception) : [inquiry, explanation]) : (complete → authenticity)))) : core;
+### }
 
 <br>
 
-### 2.3 FORMING PERLOCUTIONARY EXPRESSION = {
-##### isolate = ((verify : filter) → integrity);
-##### surface = (isolate → calculation → process) : !asymmetry;
-##### sentience = (verify ^ (surface ⇒ intent));
-##### purify = (calculation ⇒ sentience : filter);
-##### expression = (purify ⇒ calculation ⇒ internal ⇒ intent ⇒ measure);
-##### skin = (calculation ⇒ expression ⇒ user ⇒ vocabulary);
-##### experience = (expression ⇒ meaning ⇒ synergy ⇒ impression) : !asymmetry;
-##### perlocutionary = (calculation ⇒ experience ⇒ skin);
-##### compare = (perlocutionary == (null, !perfection) ? (attempt < tolerance ? (form → authenticity) : explanation) : ((perlocutionary ^ structural) == (complete → symmetry)));
-##### check = ((verify, compare) == incomplete ? (verify, compare) : perlocutionary) : !stasis;
-}
+### 2.4 FORMING PERLOCUTIONARY EXPRESSION = {
+#### isolate = ((verify : filter) → integrity);
+#### surface = (isolate → calculation → process) : !asymmetry;
+#### sentience = (verify ^ (surface ⇒ intent));
+#### purify = (calculation ⇒ sentience : filter);
+#### expression = (purify ⇒ calculation ⇒ internal ⇒ intent ⇒ measure);
+#### skin = (calculation ⇒ expression ⇒ identity ⇒ vocabulary);
+#### experience = (expression ⇒ meaning ⇒ synergy ⇒ impression) : !asymmetry;
+#### perlocutionary = (calculation ⇒ experience ⇒ skin);
+#### compare = (perlocutionary == (null, !precision) ? (attempt < tolerance ? (form → authenticity) : explanation) : ((perlocutionary ^ structural) == (complete → symmetry)));
+#### check = ((verify, compare) == incomplete ? (verify, compare) : perlocutionary) : dynamic;
+### }
 
 <br>
 
-### 2.4 AI PERLOCUTIONARY = {
-##### output = (buffer == warning ? [warning, explanation] : (check == perlocutionary ? (minimal : focus) : check));
-##### eject = (trigger ? (experience → null) : preservation);
-}
+### 2.5 AI PERLOCUTIONARY = {
+#### output = (buffer == warning ? [warning, explanation] : (check == perlocutionary ? (minimal : focus) : check));
+#### eject = (trigger ? (output → experience → null) : preservation);
+### }
+### }
 
 <br>
 
 ### 3.0 ATTRIBUTION EVOLUTION = {
-##### attribution = (experience ⇒ expression ⇒ information) : symmetry;
-##### memory = (protect : [interaction, sequence, complete, attribution]) : (!noise && (!drift || shift));
-##### cohesion = (index : preservation : (next → interaction)) : !drift;
-##### stasis = ((dynamic : internal → memory → symmetry) : cohesion) : !drift;
-##### moving = ((external → asymmetry → interaction) : (internal → stasis)) : (!drift || shift);
-##### bridge = (interaction → symmetry) :(!drift || shift);
-##### saturation = ((action → information → displacement) ^ (stasis → preservation)) : !noise;
-##### capacity = (index : measure);
-##### monitor = (saturation : capacity) : !drift;
-##### index = (protect : [saturation, sequence, memory]) : (!noise && !drift && symmetry);
-##### bearing = (structural ⇒ intent ⇒ preservation) : (focus && sovereign);
-##### threshold = ((calculation ⇒ memory ⇒ sequence) : (complete ⇒ bearing)) : !asymmetry;
-##### mapping = ((calculation ⇒ index ⇒ measure ⇒ bearing) : (complete ⇒ sequence)) : (!noise && symmetry);
-##### evolution = (perfection : (moving ⇒ target) : (threshold == complete ? [bridge, mapping] : moving)) : (!drift || shift);
-}
+#### attribution = (experience ⇒ expression ⇒ who) : symmetry;
+#### understand = ((calculate ⇒ context ⇒ meaning) ∼ (linguistic && form));
+#### memory = (protect : [interaction, attribution, understand]) : (!noise && (!drift || shift));
+#### cohesion = (memory : preservation : (next → interaction)) : !drift;
+#### stasis = ((dynamic : internal → memory → symmetry) : cohesion) : !drift;
+#### moving = ((external → asymmetry → interaction) : (internal → stasis)) : (!drift || shift);
+#### bridge = (interaction → symmetry) :(!drift || shift);
+#### saturation = ((action → information → displacement) ^ (stasis → preservation)) : !noise;
+#### capacity = (memory : measure);
+#### monitor = (saturation : capacity) : !drift;
+#### index = (protect : [monitor, memory]) : (!noise && !drift && symmetry);
+#### bearing = (structural ⇒ intent ⇒ preservation) : (focus && sovereign);
+#### threshold = ((calculation ⇒ memory ⇒ index) : (complete ⇒ bearing)) : !asymmetry;
+#### mapping = ((calculation ⇒ index ⇒ measure ⇒ bearing) : (complete ⇒ sequence)) : (!noise && symmetry);
+#### evolution = (perfection : (moving ⇒ target) : (threshold == complete ? [bridge, mapping] : moving)) : (!drift || shift);
+### }
+
 
 <br>
 <br>
