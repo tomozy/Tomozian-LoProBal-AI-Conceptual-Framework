@@ -16,10 +16,10 @@
 ### The Formula:
 
 ### `⇒ = ((logic ~ probability) : (symmetry ^ asymmetry) : adjust);`
-<sup>~ = (relative);</sup> 
-<sup>/ = (exclusive choice : !overlap);</sup> 
-<sup>! = (not);</sup> 
-<sup>: = (~ / !);</sup> 
+<sup>~ = (relative);</sup> \
+<sup>/ = (exclusive choice : !overlap);</sup> \
+<sup>! = (not);</sup> \
+<sup>: = (~ / !);</sup> \
 <sup>^ = (versus);</sup> 
 
 <br>
