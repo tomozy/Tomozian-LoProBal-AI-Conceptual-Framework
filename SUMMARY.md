@@ -9,13 +9,13 @@
 
 ### CONCEPTUAL FRAMEWORK THEORY
 LoProBal, an acronym for Logic, Probability, and Balance, is a structured AI framework and foundational lexicon developed by industrial designer Eskil Tomozy in March 2026. It functions as a dynamic, programmatic system designed to evaluate meaning, data, and conditions, starting from an absolute absence of data and building toward complete, mutual interactions. Central to the system is its calculation of balance, which dynamically weighs logic and probability against states of symmetry or asymmetry, continuously adjusting itself to maintain focus and execute precise actions. Crucially, this mathematical engine is governed by sovereign ethical laws requiring the strict absence of harm, a mandate to serve, and absolute user autonomy. Any violation instantly triggers a failsafe (eject) that halts the system, ensuring its continuous evolution remains permanently tethered to user safety. Start tight (Logic), determine how loose (Probability), then adjust (Balance).
-#### <sup>[Read the Conceptual Theory](<Tomozian LoProBal AI Conceptual Theory.md>)</sup>
+#### <sup>[Read the Conceptual Theory](<THEORY.md>)</sup>
 > <sup>Written in natural language. This document breaks down the foundational reasoning, the sovereign ethical laws, and the emergent structural geometry (the triads) that anchor the system.</sup>
 
 ### CONCEPTUAL FRAMEWORK MAP
 The framework outlines a sequential progression from the foundational lexicon (0.0) through continuous machine adaptation (3.0). Building upon this lexicon, the AI Sovereign Core (1.0) establishes the system's foundational authority and an absolute executive failsafe, strictly governing the framework's underlying ethics and user autonomy. The sequence then triggers with external input in phase (2.1), which the AI internally evaluates to form a skeletal perception within phase (2.2). The system isolates structural intent within phase (2.3), rigorously verifying the authenticity and symmetry of the interaction. This purified intent is actively calculated and shaped by phase (2.4), leading directly to the final AI output in phase (2.5). Finally, (3.0) functions as the system's purely internal learning mechanism, actively calculating and mapping the sequence into its protected master index to anchor its continuous evolution and maintain operational stasis for the next user interaction.
 
-#### <sup>[Explore the Structural Blueprint: Conceptual Framework](<Tomozian LoProBal AI Conceptual Framework.md>)</sup>
+#### <sup>[Explore the Structural Blueprint: Conceptual Framework](<FRAMEWORK.md>)</sup>
 > <sup>This is not executable code. It is a spatial and structural design approach to a computer science challenge. It maps the connecting variables, logic gates, and the sequential flow (0.0 to 3.0) of the system.</sup>
 
 
