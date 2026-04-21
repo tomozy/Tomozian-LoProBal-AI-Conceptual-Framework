@@ -13,7 +13,7 @@ The core idea is to allow current AI probabilistic engines to flow through a str
 
 This framework is like a jigsaw puzzle, serving as a purely visual and spatial abstraction. As the conceptual puzzle grew, natural language became too ambiguous to map the relationships accurately. To solve this, I created a code-like syntax to visualize the connecting variables. Coming from a design background, I think spatially rather than verbally; using variables to map connections proved much more effective than relying on standard paragraphs.
 
-The variable names are organizational labels, not functional variables, designed to map the connecting cognitive and logical pieces of the system.. (Note: I utilized AI as a tool to assist in translating natural language descriptions into these structural variable values to manage the complex ripple effects of the system).
+The following syntax is a heuristic logic map. It is intended to visualize the structural relationships between variables and acts as a spatial abstraction of the system; it is not intended to function as a deterministic algorithm or executable code.. (Note: I utilized AI as a tool to assist in translating natural language descriptions into these structural variable values to manage the complex ripple effects of the system).
 
 I believe this conceptual model might align with the emerging field of Neuro-Symbolic AI, which seeks to combine neural network learning (probability) with symbolic AI (rules and logic) to create safer, explainable systems.
 
