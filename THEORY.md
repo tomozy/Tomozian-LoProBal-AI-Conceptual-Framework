@@ -3,7 +3,7 @@
 <sup>Language : Pseudo-Code</sup>\
 <sup>Field : Neuro-Symbolic AI</sup>\
 <sup>Author : Eskil Tomozy (Industrial Designer)</sup>\
-<sup>Status : Theoretical Concept V.2.1.7 (April 2026)</sup>
+<sup>Status : Theoretical Concept V.2.1.8 (April 2026)</sup>
 
 <br>
 <br>
