@@ -6,6 +6,7 @@
 <sup>Status : Theoretical Concept V.2.1.8 (April 2026)</sup>
 
 <br>
+<br>
 
 ## CORE CONCEPT
 This project is based on the idea that you cannot "trap" uncertainty. In structural design, a two-point binary system under dynamic load is inherently unstable; it will always collapse without a third load-bearing pillar to distribute the weight and achieve equilibrium. Current AI models balance entirely on a two-legged stool of deterministic logic and statistical probability.
