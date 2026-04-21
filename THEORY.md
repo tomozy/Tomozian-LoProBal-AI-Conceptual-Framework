@@ -9,11 +9,13 @@
 <br>
 
 ### OPENING STATEMENT
-I know that unsolicited help from an outsider is often frowned upon in highly specialized fields, so I want to be upfront: I am not a neuroscientist or computer scientist, and I am not here to tell engineers how to code. I am an Industrial Designer.
-
-I didn't set out to solve any grand AI problem, nor am I assuming this is a novel solution. I am putting this conceptual map out there in the hopes that it might help those building these systems to step back and look at the architecture from a different angle.
+I know that unsolicited help from an outsider is often frowned upon in highly specialized fields, so I want to be upfront: I am not a neuroscientist or computer scientist, and I am not here to tell engineers how to code. I am an Industrial Designer. I didn't set out to solve any grand AI problem, nor am I assuming this is a novel solution. I am putting this conceptual map out there in the hopes that it might help those building these systems to step back and look at the architecture from a different angle.
 
 In my field, when a physical structure or system becomes unpredictable, the starting point is always to deconstruct it back down to its absolute basics. Sometimes, you have to step back and look at the geometry of the foundation.
+
+Contemporary AI architectures are primarily bipolar, relying on a precarious synthesis of rigid symbolic logic and fluid probabilistic distributions. In such systems, the interface between these two states is statically coupled; it lacks the degrees of freedom necessary to absorb the high-entropy flux of real-world data. When this "dynamic load" exceeds the system's fixed parameters, the architecture experiences structural fatigue, leading to divergence or "hallucination."
+
+Instead of offering a definitive software solution, LoProBal proposes a conceptual method to manage the inherent instability between rigid symbolic logic and fluid probabilistic distributions. By shifting to a triadic information geometry, the system moves away from brittle constraints toward Active Equilibrium. Utilizing the specialized $\Delta$ operator, LoProBal does not attempt to statically constrain uncertainty; instead, it provides a navigational framework that maintains systemic integrity even as the underlying data fluctuates.
 
 This document is a breakdown of that foundation. It maps the detailed operational phases of the LoProBal architecture to show exactly how we might structurally steer uncertainty rather than attempting to trap it.
 
@@ -203,11 +205,14 @@ Represents the system's ultimate, continuous progression. It exclusively evaluat
 <br>
 
 ### CLOSING STATEMENT 
-I will leave you with one final structural observation. If you decide to trace the logic paths through the syntax, I invite you to look closely at the geometry of the variables. You will notice a reoccurring theme of triads. I did not intentionally engineer it this way; it was an observation I made only after making some recent adjustments to the framework.
+I will leave you with one final observation from the perspective of design. If you trace the logic paths through the syntax of this framework, you will notice a recurring theme of triads. This was not a deliberate attempt to force a pattern; rather, it was an observation I made only after the framework reached its current state of functional maturity.
 
-You will see this emergent three-point geometry throughout the architecture. You see it in the overarching name itself, LoProBal (Logic, Probability, Balance). You see it in the calculation of intent, which requires (purpose && meaning && !entropy). You see it in the foundational trigger of the Sovereign Core, which relies on [harm, !autonomy, !user]. Perhaps I'll revisit this reoccurrence in the future and make adjustments.
+This emergent three-point geometry is not a coincidence—it reveals itself as a logical pivot point. In physical engineering, a triangle is the uniquely stable polygon because it is inherently rigid; its integrity is derived from its form rather than the brute force of its connections. Similarly, LoProBal relies on this triadic information geometry to maintain structural integrity across the volatile interface of logic and probability.
+We must accept that we cannot "trap" uncertainty within the rigid welds of binary constraints. To build AI that is truly autonomous and resilient, we must move toward architectures that can "lean" into chaos without collapsing. By utilizing Balance as a third regulatory dimension, we achieve a state of Active Equilibrium—allowing the system to dynamically steer high-entropy data rather than being overwhelmed by it.
 
-As it turns out, continuous adjustment is the entire purpose of the framework, and this emergent geometry reflects the original design intent. We cannot trap uncertainty; we must actively guide it to achieve more predictable outcomes. Start tight (logic), determine how loose (probability), then adjust (balance).
+The goal is not to eliminate the "loose" nature of probability, but to ensure the "tight" constraints of logic have a stable pivot point.
+
+**Start tight (Logic), determine how loose (Probability), then adjust (Balance).**
 
 <br>
 <br>
