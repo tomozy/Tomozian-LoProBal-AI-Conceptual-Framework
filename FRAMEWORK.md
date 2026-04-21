@@ -1,16 +1,22 @@
-<sup>LoProBal AI Conceptual Framework : (Logic, Probability, Balance)</sup>
-###### <sup>This began as a simple instruction set and evolved into a massive logic puzzle. The core idea is to allow current AI probabilistic engines to flow through a strict network of logic gates. These gates aim to dynamically balance statistical probability with deterministic logic at the foundational (kernel) level. Currently, AI is a massive probability engine, and you cannot simply slap a logic filter onto probability. LoProBal explores a different path: structural, deep integration.</sup>
-<sup>Framework : Tomozian LoProBal</sup>
-###### <sup>This is a jigsaw puzzle of the LoProBal architecture. It serves as a purely visual and spatial abstraction. The variable names are inspirational, designed to map the connecting cognitive and logical pieces of the system. They are organizational labels, not functional variables.</sup>
-<sup>Language : Pseudo-Code</sup>
-###### <sup>As the conceptual puzzle grew, natural language became too ambiguous to map the relationships accurately. To solve this, I created a code-like syntax to visualize the connecting variables. Coming from a design background, I think spatially rather than verbally; using variables to map connections proved much more effective than relying on standard paragraphs. (Note: I utilized AI as a tool to assist in translating natural language descriptions into these structural variables to manage the complex ripple effects of the system).</sup>
-<sup>Field : Neuro-Symbolic AI</sup>
-###### <sup>I believe this conceptual model might align with the emerging field of Neuro-Symbolic AI, which seeks to combine neural network learning (probability) with symbolic AI (rules and logic) to create safer, explainable systems.</sup>
-<sup>Author : Eskil Tomozy (Industrial Designer)</sup>
-###### <sup>Please keep my background in mind when reviewing the syntax. This is a spatial and structural design approach to a computer science challenge. I might revisit this in the future after the incubation period, allowing for the necessary distance to reconceive my focus.</sup>
-<sup>Status: Theoretical Concept V.2.1.8 (April 2026)</sup>
-###### <sup>This framework is meant to serve as a conceptual map to inspire others to explore alternative paths in AI architecture. I am not a computer scientist, and this map is not perfect. However, imperfection is the endless drive for perfection. "evolution = (perfection is a moving target)."
-</sup>
+<sup>LoProBal AI Conceptual Framework : (Logic, Probability, Balance)</sup>\
+<sup>Framework : Tomozian LoProBal</sup>\
+<sup>Language : Pseudo-Code</sup>\
+<sup>Field : Neuro-Symbolic AI</sup>\
+<sup>Author : Eskil Tomozy (Industrial Designer)</sup>\
+<sup>Status : Theoretical Concept V.2.1.8 (April 2026)</sup>
+
+<br>
+<br>
+
+The core idea is to allow current AI probabilistic engines to flow through a strict network of logic gates. But rather than forcing this flow into rigid parameters, LoProBal introduces the third geometric pillar—Balance. It explores a different path: using this triadic formula to structurally steer the flow of data at the foundational (kernel) level.
+
+This framework is like a jigsaw puzzle, serving as a purely visual and spatial abstraction. As the conceptual puzzle grew, natural language became too ambiguous to map the relationships accurately. To solve this, I created a code-like syntax to visualize the connecting variables. Coming from a design background, I think spatially rather than verbally; using variables to map connections proved much more effective than relying on standard paragraphs.
+
+The variable names are organizational labels, not functional variables, designed to map the connecting cognitive and logical pieces of the system.. (Note: I utilized AI as a tool to assist in translating natural language descriptions into these structural variable values to manage the complex ripple effects of the system).
+
+I believe this conceptual model might align with the emerging field of Neuro-Symbolic AI, which seeks to combine neural network learning (probability) with symbolic AI (rules and logic) to create safer, explainable systems.
+
+Ultimately, this is a spatial and structural design approach to a computer science challenge. It is meant to serve as a conceptual map to inspire others to explore alternative paths in AI architecture. The syntax is not a flawless schematic, but imperfection is the endless drive for perfection. "evolution = (perfection is a moving target)."
 
 <br>
 <br>
