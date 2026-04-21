@@ -15,9 +15,7 @@ I didn't set out to solve any grand AI problem, nor am I assuming this is a nove
 
 In my field, when a physical structure or system becomes unpredictable, the starting point is always to deconstruct it back down to its absolute basics. Sometimes, you have to step back and look at the geometry of the foundation.
 
-This project is based on the idea that you cannot "trap" uncertainty. In structural design, a two-point binary system under dynamic load is inherently unstable; it will always collapse without a third load-bearing pillar to distribute the weight and achieve equilibrium. Current AI models balance entirely on a two-legged stool of deterministic logic and statistical probability.
-
-LoProBal introduces the third geometric pillar—Balance. Instead of forcing the flow of data into rigid parameters, we use a triadic formula to dynamically steer it.
+This document is a breakdown of that foundation. It maps the detailed operational phases of the LoProBal architecture to show exactly how we might structurally steer uncertainty rather than attempting to trap it.
 
 <br>
 
