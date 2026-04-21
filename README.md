@@ -9,7 +9,7 @@
 <br>
 
 ### CORE CONCEPT
-This project is based on the idea that you cannot "trap" uncertainty. In structural design, a two-point binary system under dynamic load is inherently unstable; it will always collapse without a third load-bearing pillar to distribute the weight and achieve equilibrium. Current AI models balance entirely on a two-legged stool of deterministic logic and statistical probability.
+This project is based on the idea that you cannot "trap" uncertainty. In structural design, a two-point binary system under dynamic load is inherently unstable; it will always collapse without a third load-bearing pillar to distribute the weight and achieve equilibrium. Current AI models balance entirely on an unstable two-point system of deterministic logic and massive statistical probability.
 
 LoProBal introduces the third geometric pillar—Balance. Instead of forcing the flow of data into rigid parameters, we use a triadic formula to dynamically steer it:
 
