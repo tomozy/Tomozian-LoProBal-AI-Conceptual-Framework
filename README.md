@@ -13,7 +13,7 @@ This project is based on the idea that you cannot "trap" uncertainty. In structu
 
 LoProBal introduces the third geometric pillar—Balance. Instead of forcing the flow of data into rigid parameters, we use a triadic formula to dynamically steer it:
 
-### ⇒ = LoProBal: Logic, Probability, Balance
+### LoProBal: Logic, Probability, Balance
 "Directing probability, not trapping it."
 
 <br>
