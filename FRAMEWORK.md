@@ -8,6 +8,7 @@
 <br>
 <br>
 
+### LOPROBAL INTRODUCTION
 The core idea is to allow current AI probabilistic engines to flow through a strict network of logic gates. But rather than forcing this flow into rigid parameters, LoProBal introduces the third geometric pillar—Balance. It explores a different path: using this triadic formula to structurally steer the flow of data at the foundational (kernel) level.
 
 This framework is like a jigsaw puzzle, serving as a purely visual and spatial abstraction. As the conceptual puzzle grew, natural language became too ambiguous to map the relationships accurately. To solve this, I created a code-like syntax to visualize the connecting variables. Coming from a design background, I think spatially rather than verbally; using variables to map connections proved much more effective than relying on standard paragraphs.
