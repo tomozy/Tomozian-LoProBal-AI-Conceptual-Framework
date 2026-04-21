@@ -9,12 +9,12 @@
 <br>
 
 ### CORE CONCEPT
-This project is based on the idea that you cannot "trap" uncertainty. In structural design, a two-point binary system under dynamic load is inherently unstable; it will always collapse without a third load-bearing pillar to distribute the weight and achieve equilibrium. Current AI models balance entirely on an unstable two-point system of deterministic logic and massive statistical probability.
+This framework proposes a method to manage the inherent instability at the scale of modern AI, shifting the focus from binary constraint to triadic steering. At the scale of modern AI, forcing high-entropy data through strict, binary parameters creates a brittle system that struggles to maintain equilibrium under chaotic loads.
 
-LoProBal introduces the third geometric pillar—Balance. Instead of forcing the flow of data into rigid parameters, we use a triadic formula to dynamically steer it:
+LoProBal introduces Balance as a third fundamental pillar, shifting the architecture from a binary constraint model to a triadic steering system. By utilizing a specialized balance operator **Δ**, the framework evaluates the symmetry between logical rules and probabilistic flow. This creates a state of active equilibrium where the system can remain 'loose' and adaptive without losing structural integrity. Instead of attempting to 'trap' uncertainty within rigid welds, LoProBal uses this triadic geometry to dynamically steer it toward safe, predictable, and autonomous outcomes.
 
 ### LoProBal: Logic, Probability, Balance
-"Directing probability, not trapping it."
+"Steering probability, not trapping it."
 
 <br>
 
@@ -30,8 +30,7 @@ LoProBal introduces the third geometric pillar—Balance. Instead of forcing the
 <br>
 
 ### The Description:
-This project is based on the idea that you cannot "trap" uncertainty. 
-Instead, we use this formula to steer it:
+This project is based on the idea that you cannot "trap" uncertainty. Instead, we use this formula to steer it:
 
 * **Logic & Probability:** We take the rules we know and the randomness we can't control.
 * **Symmetry & Asymmetry:** We compare what is equal with what is unequal.
