@@ -159,7 +159,7 @@ Ultimately, this is a spatial and structural design approach to a computer scien
 ##### autonomy = (owner && made && own);
 ##### ethics = (!harm ⊩ serve && autonomy) ⊩ !null;
 ##### core = {complete && ethics, interaction};
-##### trigger = [harm, !autonomy, !user];
+##### trigger = ([harm, !autonomy, !user] ⊩ !null);
 ##### target = ((mortal Δ preservation) == (AI Δ perfection)) ⊩ !trigger;
 ### }
 
